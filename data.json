@@ -4,25 +4,25 @@
       "id": "1",
       "name": "Alan Katawazi",
       "state": "AZ",
+      "state2": "NY",
       "address": "1019 Jashua Tree Lane",
+      "address2": "270 Stone Road",
       "dob": "07/27/1980",
-      "status": "Active" ,
-      "Details": [
-        { "State": "AZ", "Address": "1019 N Joshua Tree Ln", "Date of Birth": "07/28/1980", "Status": "Active" },
-        { "State": "NY", "Address": "270 Stone Road", "Date of Birth": "07/28/1980", "Status": "Innactive" }
-        ]			
+      "dob2":"07/27/1980",
+      "status": "Active" 	,
+      "status2":"Inactive"		
     },
     {
       "id": "2",
       "name": "Garrett Winters",
       "state": "AZ",
+      "state2": "NY",
       "address": "1019 Jashua Tree Lane",
+      "address2": "270 Stone Road",
       "dob": "07/27/1980",
-      "status": "Active",
-      "Details": [
-        { "State": "AZ", "Address": "1019 N Joshua Tree Ln", "Date of Birth": "07/28/1980", "Status": "Active" },
-        { "State": "NY", "Address": "270 Stone Road", "Date of Birth": "07/28/1980", "Status": "Innactive" }
-        ]
+      "dob2":"07/27/1980",
+      "status": "Active" 	,
+      "status2":"Inactive"
     }
   ]
 }
