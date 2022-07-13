@@ -6,7 +6,11 @@
       "state": "AZ",
       "address": "1019 Jashua Tree Lane",
       "dob": "07/27/1980",
-      "status": "Active" 			
+      "status": "Active" ,
+      "Details": [
+        { "State": "AZ", "Address": "1019 N Joshua Tree Ln", "Date of Birth": "07/28/1980", "Status": "Active" },
+        { "State": "NY", "Address": "270 Stone Road", "Date of Birth": "07/28/1980", "Status": "Innactive" }
+        ]			
     },
     {
       "id": "2",
@@ -14,7 +18,11 @@
       "state": "AZ",
       "address": "1019 Jashua Tree Lane",
       "dob": "07/27/1980",
-      "status": "Active"
+      "status": "Active",
+      "Details": [
+        { "State": "AZ", "Address": "1019 N Joshua Tree Ln", "Date of Birth": "07/28/1980", "Status": "Active" },
+        { "State": "NY", "Address": "270 Stone Road", "Date of Birth": "07/28/1980", "Status": "Innactive" }
+        ]
     }
   ]
 }
